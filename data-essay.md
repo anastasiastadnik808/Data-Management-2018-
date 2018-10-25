@@ -205,7 +205,20 @@
 
 **F.A.Q**
 
-Для анализа использованы данные Федерального казначейства, Министерства труда, Центального банка, Росстата. Скачать данные можно здесь - https://hubofdata.ru/user/anastasia_stadnik. Данные представлены в формате .xlsx  
+Для анализа использованы данные Федерального казначейства, Министерства труда, Центального банка, Росстата. 
+
++ http://www.roskazna.ru/ispolnenie-byudzhetov/konsolidirovannye-byudzhety-subektov/    
++ https://rosmintrud.ru/docs/mintrud/orders/381
++ https://rosmintrud.ru/docs/mintrud/orders/473
++ https://rosmintrud.ru/docs/mintrud/orders/645
++ https://rosmintrud.ru/docs/mintrud/orders/499
++ https://rosmintrud.ru/docs/38
++ https://rosmintrud.ru/docs/mintrud/orders/466
++ http://www.cbr.ru/statistics/?Prtid=svs&ch=ITM_53569#CheckedItem
++ http://www.gks.ru/wps/wcm/connect/rosstat_main/rosstat/ru/
+
+
+Скачать проанализированные данные можно здесь - https://hubofdata.ru/user/anastasia_stadnik. Данные представлены в формате .xlsx  
 
 Материал не включает в себя сведений, составляющих тайну.
 
