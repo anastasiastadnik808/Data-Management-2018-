@@ -37,6 +37,7 @@
 
 ![Image alt](https://github.com/anastasiastadnik808/Data-Management-2018-/blob/master/photo5433631141727938607.jpg )
 
+
 **Часть вторая. Квоты **
 
 *Квотирование иностранных работников*
